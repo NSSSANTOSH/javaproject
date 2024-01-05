@@ -1,0 +1,43 @@
+tell me about your self?
+--------------------------
+my name is santosh nagadavara
+i have 3+ years of exp as a java backend developer 
+(front end i have just awarenose on angular 10..,but i didn't workedon angular)
+
+ I have been associated(working) with Incon spark india pvt lim in hyderabad location
+(payroll company name is xxx it is in XXXX location)
+
+and also I am handling the  medical project name is apollo(project name).
+in this project we are using 
+java8 ==>[(new features)==>streams,lamda expression,optional,DATe API]
+Spring framework(core,mvc,orm ==Modules)
+spring boot 
+ORM tools like Hibernate and jpa 
+data base side ORacle and mysql.
+
+======================================================================
+what is your role and what is your Responsibilities?
+--------------------------------------------------------
+Role :java backend developer /java developer 
+Responsibilities ::
+-------------------
+
+we are following agile process with scrum methodology..and in this process we are using 
+Bug traking tool ==>jira 
+code repository ==> github...(versioning control tool) we are using
+
+in Agile process , 
+daily attending the scrum calls/standup calls (10-15 min)==> here we will discuss about
+ what i have done yesterday and what I need to do today ..any issues while development will discuss with team memebrs .
+
+
+ for every 2 weeks we have sprint planning .. here will discuss about product backlog(work)
+and estimation for work ==> my sr developer/team lead will take care and assign the work to us..
+i will get work through jira ,like enhanccement level or bugs related work I will get ...
+
+
+
+once i get the work ==> i will do the analysis . after that I will start 
+development .. once compelted the developmenet I will test manaully .. after that
+ i will commit the code into github repository. 
+(code management ==> my sr developer/lead will take care...)
